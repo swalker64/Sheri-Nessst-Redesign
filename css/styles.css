@@ -1,1 +1,17 @@
-/* Stylesheet */
+/* Global */
+.container {
+	margin: auto auto;
+	width: 960px;
+}
+
+/* Nav */
+li {
+	float: left;
+	list-style: none;
+	margin: 10px;	
+}
+
+a:link,
+a:visited {
+	text-decoration: none;	
+}
